@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             string vinsent_vega = "Знаешь как в Париже называют четвертьфунтовый с сыром?";
             string jules_winnfield = "Они не называют его четвертьфунтовый с сыром?";
+            Console.WriteLine(vinsent_vega + jules_winnfield);
         }
     }
 }
