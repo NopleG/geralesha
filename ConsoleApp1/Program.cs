@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("f" + "f");
+            string vinsent_vega = "Знаешь как в Париже называют четвертьфунтовый с сыром?";
         }
     }
 }
